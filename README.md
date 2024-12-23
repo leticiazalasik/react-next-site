@@ -1,4 +1,4 @@
-# Carrinho de compras com React (c/ dark mode)
+# Blog com React
 
 Esse projeto é uma prática de estudos sobre REACT.
 
